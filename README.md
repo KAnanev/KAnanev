@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Django, Data Science.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on IT-company.
-- 📫 How to reach me [My E-Mail:](mailto:ananevengels@gmail.com)
+- 📫 How to reach me [My E-Mail](mailto:ananevengels@gmail.com)
 
 <!---
 KAnanev/KAnanev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
