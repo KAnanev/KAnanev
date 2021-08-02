@@ -1,3 +1,4 @@
+ Если мало коммитов, то я почистил свои репозитории.
 - 👋 Hi, I’m @KAnanev
 - 👀 I’m interested in Python, Django, Data Science.
 - 🌱 I’m currently learning Django.
