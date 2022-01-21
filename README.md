@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @KAnanev
-- 👀 I’m interested in Python, Django, Data Science.
-- 🌱 I’m currently learning Django.
+- 👀 I’m interested in Python, Django.
+- 🌱 I’m currently learning programming world.
 - 💞️ I’m looking to collaborate on IT-company.
 - 📫 How to reach me [My E-Mail](mailto:ananevdeveloper@yandex.ru)
 
