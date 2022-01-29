@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning programming world.
 - 💞️ I’m looking to collaborate on IT-company.
 - 📫 How to reach me [My E-Mail](mailto:ananevdeveloper@yandex.ru)
-- Experience in Python development since 2019, mainly my own pet projects and test tasks. Familiar with algorithms and data structures, design patterns.
+
+Experience in Python development since 2019, mainly my own pet projects and test tasks. Familiar with algorithms and data structures, design patterns.
 
 My stack:
 - Python 3.8+
