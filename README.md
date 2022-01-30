@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m @KAnanev
 - 👀 I’m interested in Python, Django, DRF, FastAPI.
 - 🌱 I’m currently learning programming world.
@@ -18,6 +17,8 @@ My stack:
 - unit test
 - flake8
 - Coverage
+- Celery
+- Redis
 
 I use automated testing. I publish the code on Github. I work in the command line zsh (oh-my-zsh).
 Experience in programming in Windows, MacOS, Linux operating systems.
