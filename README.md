@@ -17,7 +17,7 @@ My stack:
 - unit test
 - flake8
 - Coverage
-- Celery
+- ElasticSearch
 - Redis
 
 I use automated testing. I publish the code on Github. I work in the command line zsh (oh-my-zsh).
