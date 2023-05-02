@@ -13,6 +13,22 @@ Specialization: Information systems and technologies.
 - Python Developer - [Hexlet](https://ru.hexlet.io/)
 - Python Middle - [Yandex Practicum](https://practicum.yandex.ru/profile/middle-python/) ✨In progress✨
 
+## My experience:
+### Self employed. Website development for companies (2010-2013) 
+- Website design and implementation on CMS.
+- Conclusion of contracts.
+- Website support and promotion.
+
+### Zoloto64. IT Manager. (2019-2022)
+- Software control & distribution
+- Problem management
+- 
+### Zoloto64. Junior Python Backend Developer(2022-2023)
+- Development of applications and services based on the Python language
+- Support, integration, optimization of applications and services
+- Writing technical specifications and documentation.
+
+
 My stack:
 - Python 3.8+
 - Django+DRF
