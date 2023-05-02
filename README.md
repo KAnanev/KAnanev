@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @KAnanev
 - 👀 I’m interested in Python, Django, DRF, FastAPI.
 - 🌱 I’m currently learning programming world.
-- 💞️ I’m looking to collaborate on IT-company.
-- 📫 How to reach me [My E-Mail](mailto:ananevdeveloper@yandex.ru)
+- 📫 How to reach me [My E-Mail](mailto:ananevdev@yandex.ru)
 
-Experience in Python development since 2019, mainly my own pet projects and test tasks. Familiar with algorithms and data structures, design patterns.
+## Education:
+- Higher:
+-- Saratov National Research State University named after N.G. Chernyshevsky.
+Specialization: Information systems and technologies.
+- Additionally:
+-- Python (Basic, Advanced, Django) - [Netology](https://netology.ru/)
+-- Python Developer - [Hexlet](https://ru.hexlet.io/)
+-- Python Middle - [Yandex Practicum](https://practicum.yandex.ru/profile/middle-python/) ✨In progress✨
 
 My stack:
 - Python 3.8+
