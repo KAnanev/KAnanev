@@ -11,7 +11,7 @@
 # Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I’m @KAnanev
 - 👀 I’m interested in Python, Django, DRF, FastAPI
 - 🌱 I’m currently learning programming world
-- 📫 How to reach me [My E-Mail](mailto:ananevdev@yandex.ru)
+- 📫 How to reach me [ananevdev@yandex.ru](mailto:ananevdev@yandex.ru)
 
 ## Education:
 ### Higher:
