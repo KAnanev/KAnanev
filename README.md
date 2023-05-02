@@ -9,14 +9,14 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 - 👋 Hi, I’m @KAnanev
-- 👀 I’m interested in Python, Django, DRF, FastAPI.
-- 🌱 I’m currently learning programming world.
+- 👀 I’m interested in Python, Django, DRF, FastAPI
+- 🌱 I’m currently learning programming world
 - 📫 How to reach me [My E-Mail](mailto:ananevdev@yandex.ru)
 
 ## Education:
 ### Higher:
-- Saratov National Research State University named after N.G. Chernyshevsky.
-Specialization: Information systems and technologies.
+- Saratov National Research State University named after N.G. Chernyshevsky
+Specialization: Information systems and technologies
 
 ### Additionally:
 - Python (Basic, Advanced, Django) - [Netology](https://netology.ru/)
@@ -25,22 +25,29 @@ Specialization: Information systems and technologies.
 
 ## My experience:
 ### Self employed. Website development for companies (2010-2013) 
-- Website design and implementation on CMS.
-- Conclusion of contracts.
-- Website support and promotion.
+- Website design and implementation on CMS
+- Conclusion of contracts
+- Website support and promotion
 
 ### Zoloto64. IT Manager. (2019-2022)
 - Software control & distribution
 - Problem management
-- 
+
 ### Zoloto64. Junior Python Backend Developer(2022-2023)
 - Development of applications and services based on the Python language
 - Support, integration, optimization of applications and services
-- Writing technical specifications and documentation.
+- Writing technical specifications and documentation
 
 
-My stack:
-- Python 3.8+
+## My stack
+### Fundamental
+- Knowledge of basic algorithms
+- Mathematical preparation
+- Database
+- Ability to write code correctly
+
+### Applied
+- Python ★★★★☆
 - Django+DRF
 - PostgreSQL
 - Git + Github + Github Actions
