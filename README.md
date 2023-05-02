@@ -63,14 +63,16 @@ Specialization: Information systems and technologies
 - Flake
 - Coverage
 
-I use automated testing. I publish the code on Github. I work in the command line zsh (oh-my-zsh).
+### About me
+
+- I use automated testing. I publish the code on Github. I work in the command line zsh (oh-my-zsh).
 Experience in programming in Windows, MacOS, Linux operating systems.
 
-From the completed projects, there are several console applications, an online store on Django, a mini CRM on Django with an alert service via a telegram bot, an asynchronous search engine on elasticsearch and aiohttp.
+- From the completed projects, there are several console applications, an online store on Django, a mini CRM on Django with an alert service via a telegram bot, an asynchronous search engine on elasticsearch and aiohttp.
 
-I also have programming experience in C#, PHP, Javascript and work in graphic editors.
+- I also have programming experience in C#, PHP, Javascript and work in graphic editors.
 
-I read professional and fiction literature, I like to learn and enjoy the application of this knowledge. Yoga for health, outdoor activities, going to the cinema, museums, playing the guitar and board games.
+- I read professional and fiction literature, I like to learn and enjoy the application of this knowledge. Yoga for health, outdoor activities, going to the cinema, museums, playing the guitar and board games.
 
 <!---
 KAnanev/KAnanev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
