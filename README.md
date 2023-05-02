@@ -50,7 +50,6 @@ Specialization: Information systems and technologies
 - Python
 - Django+DRF
 - FastAPI
-- Flake
 - Redis
 - ElasticSearch
 - PostgreSQL
@@ -58,6 +57,7 @@ Specialization: Information systems and technologies
 - Docker, Docker-Compose
 - Poetry
 - Pytest
+- SqlAlchemy
 - Pydantic
 - Unittest
 - Flake
