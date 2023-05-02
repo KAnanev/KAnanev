@@ -47,18 +47,21 @@ Specialization: Information systems and technologies
 - Ability to write code correctly
 
 ### Applied
-- Python ★★★★☆
+- Python
 - Django+DRF
-- PostgreSQL
-- Git + Github + Github Actions
-- Docker
-- poetry
-- Pytest
-- unit test
-- flake8
-- Coverage
-- ElasticSearch
+- FastAPI
+- Flake
 - Redis
+- ElasticSearch
+- PostgreSQL
+- Git, Github, Github Actions
+- Docker, Docker-Compose
+- Poetry
+- Pytest
+- Pydantic
+- Unittest
+- Flake
+- Coverage
 
 I use automated testing. I publish the code on Github. I work in the command line zsh (oh-my-zsh).
 Experience in programming in Windows, MacOS, Linux operating systems.
