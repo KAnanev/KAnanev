@@ -4,17 +4,14 @@
 - 📫 How to reach me [My E-Mail](mailto:ananevdev@yandex.ru)
 
 ## Education:
-- Higher:
-
-Saratov National Research State University named after N.G. Chernyshevsky.
+### Higher:
+- Saratov National Research State University named after N.G. Chernyshevsky.
 Specialization: Information systems and technologies.
 
-- Additionally:
-
-Python (Basic, Advanced, Django) - [Netology](https://netology.ru/)
-
-Python Developer - [Hexlet](https://ru.hexlet.io/)
--- Python Middle - [Yandex Practicum](https://practicum.yandex.ru/profile/middle-python/) ✨In progress✨
+### Additionally:
+- Python (Basic, Advanced, Django) - [Netology](https://netology.ru/)
+- Python Developer - [Hexlet](https://ru.hexlet.io/)
+- Python Middle - [Yandex Practicum](https://practicum.yandex.ru/profile/middle-python/) ✨In progress✨
 
 My stack:
 - Python 3.8+
