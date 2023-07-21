@@ -12,6 +12,7 @@
 - 👀 I’m interested in Python, Django, DRF, FastAPI
 - 🌱 I’m currently learning programming world
 - 📫 How to reach me [ananevdev@yandex.ru](mailto:ananevdev@yandex.ru)
+<details><summary>More about me...</summary>
 
 ## Education:
 ### Higher:
@@ -78,3 +79,4 @@ Experience in programming in Windows, MacOS, Linux operating systems.
 KAnanev/KAnanev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</details>
