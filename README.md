@@ -9,7 +9,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I’m @KAnanev
-- 👀 I’m interested in Python, Django, DRF, FastAPI
+- 👀 I’m interested in Python, Django, DRF, FastAPI, Flask
 - 🌱 I’m currently learning programming world
 - 📫 How to reach me [ananevdev@yandex.ru](mailto:ananevdev@yandex.ru)
 <details><summary>More about me...</summary>
