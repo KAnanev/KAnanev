@@ -73,8 +73,7 @@ Experience in programming in Windows, MacOS, Linux operating systems.
 
 - I also have programming experience in C#, PHP, Javascript and work in graphic editors.
 
-- I read professional and fiction literature, I like to learn and enjoy the application of this knowledge. Yoga for health, outdoor activities, going to the cinema, museums, playing the guitar and board games.
-
+- I read professional and fiction literature, I like to learn and enjoy the application of this knowledge. Yoga for health, outdoor activities, going to the cinema, museums, playing the guitar and board games. Game server administrator 7dtd.
 <!---
 KAnanev/KAnanev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
