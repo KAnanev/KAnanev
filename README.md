@@ -10,14 +10,20 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKAnanev%2F&count_bg=%2300A9FF&title_bg=%23FF00F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![kananev's Stats](https://github-readme-stats.vercel.app/api?username=kananev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![kananev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kananev&theme=tokyonight&hide_border=true)
 ![image](https://github.com/user-attachments/assets/6857fdb7-197a-43dc-bc0c-7f75a545c603)
+![kananev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kananev&theme=tokyonight&hide_border=true)
+
 
 
 # Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I’m @KAnanev
 - 👀 I’m interested in Python, JS, Django, DRF, FastAPI, Flask
 - 🌱 I’m currently learning programming world
 - 📫 How to reach me [ananevdev@yandex.ru](mailto:ananevdev@yandex.ru)
+
+Connect with me:
+
+[<img src = "https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" width="30">](https://t.me/kananev)
+
 <details><summary>More about me...</summary>
 
 ## Education:
