@@ -11,7 +11,6 @@
 
 ![kananev's Stats](https://github-readme-stats.vercel.app/api?username=kananev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![image](https://github.com/user-attachments/assets/6857fdb7-197a-43dc-bc0c-7f75a545c603)
-![kananev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kananev&theme=tokyonight&hide_border=true)
 
 
 
