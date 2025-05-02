@@ -7,11 +7,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKAnanev%2F&count_bg=%2300A9FF&title_bg=%23FF00F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 ![kananev's Stats](https://github-readme-stats.vercel.app/api?username=kananev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![image](https://github.com/user-attachments/assets/6857fdb7-197a-43dc-bc0c-7f75a545c603)
-
 
 
 # Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I’m @KAnanev
