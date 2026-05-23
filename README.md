@@ -83,15 +83,13 @@ Focus areas:
 - message broker integration
 - worker-based processing
 
-### [FPV Landing](https://github.com/KAnanev/fpv-landing-split)
-Landing page project with responsive layout and deployment workflow.
-
-**Stack:** frontend layout, static assets, deployment scripts.
+### [RCON Tools](https://github.com/KAnanev/rcon)
+Server administration tooling for remote command workflows.
 
 Focus areas:
-- production-oriented structure
-- responsive UI
-- deployment automation
+- backend scripting
+- server-side automation
+- operational utilities
 
 ### [DayzServer](https://github.com/KAnanev/DayzServer)
 Server administration and automation project.
