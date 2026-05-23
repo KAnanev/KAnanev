@@ -122,9 +122,3 @@ Focus areas:
 - Telegram: [@kananev](https://t.me/kananev)
 - Email: [ananevdev@yandex.ru](mailto:ananevdev@yandex.ru)
 - GitHub: [github.com/KAnanev](https://github.com/KAnanev)
-
----
-
-## GitHub stats
-
-![KAnanev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAnanev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
