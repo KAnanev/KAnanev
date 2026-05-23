@@ -52,6 +52,18 @@ Focus areas:
 - database schema design
 - clean project structure
 
+### [QRKot Spreadsheets](https://github.com/KAnanev/QRkot_spreadsheets)
+FastAPI charity fund API with automated Google Sheets reporting.
+
+**Stack:** FastAPI, SQLAlchemy async, Alembic, Pydantic, SQLite, Aiogoogle, pytest.
+
+Focus areas:
+- async API development
+- database modelling and migrations
+- donation distribution logic
+- Google Sheets integration
+- environment-based configuration
+
 ### [Page Analyzer](https://github.com/KAnanev/Page-analyzer)
 Web application for page analysis.
 
