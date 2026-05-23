@@ -52,16 +52,16 @@ Focus areas:
 - database schema design
 - clean project structure
 
-### [Foodgram](https://github.com/KAnanev/foodgram)
-Recipe platform backend project.
+### [Taski Docker](https://github.com/KAnanev/taski-docker)
+Dockerized task management web application.
 
-**Stack:** Django, Django REST Framework, PostgreSQL, Docker, CI/CD.
+**Stack:** Django, PostgreSQL, Docker, Docker Compose, CI/CD.
 
 Focus areas:
-- REST API
-- users and authentication
-- recipe, favorites and shopping list logic
 - containerized deployment
+- web backend structure
+- environment configuration
+- production-oriented project layout
 
 ### [Page Analyzer](https://github.com/KAnanev/Page-analyzer)
 Web application for page analysis.
