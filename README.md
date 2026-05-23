@@ -52,17 +52,6 @@ Focus areas:
 - database schema design
 - clean project structure
 
-### [Taski Docker](https://github.com/KAnanev/taski-docker)
-Dockerized task management web application.
-
-**Stack:** Django, PostgreSQL, Docker, Docker Compose, CI/CD.
-
-Focus areas:
-- containerized deployment
-- web backend structure
-- environment configuration
-- production-oriented project layout
-
 ### [Page Analyzer](https://github.com/KAnanev/Page-analyzer)
 Web application for page analysis.
 
@@ -82,22 +71,6 @@ Focus areas:
 - asynchronous background jobs
 - message broker integration
 - worker-based processing
-
-### [RCON Tools](https://github.com/KAnanev/rcon)
-Server administration tooling for remote command workflows.
-
-Focus areas:
-- backend scripting
-- server-side automation
-- operational utilities
-
-### [DayzServer](https://github.com/KAnanev/DayzServer)
-Server administration and automation project.
-
-Focus areas:
-- server configuration
-- automation scripts
-- operational tooling
 
 ---
 
