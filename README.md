@@ -52,6 +52,18 @@ Focus areas:
 - database schema design
 - clean project structure
 
+### [Foodgram](https://github.com/KAnanev/foodgram)
+Django REST recipe platform with subscriptions, favorites and shopping lists.
+
+**Stack:** Django, Django REST Framework, PostgreSQL, Docker, Nginx, Gunicorn, GitHub Actions.
+
+Focus areas:
+- REST API development
+- authentication with Djoser
+- recipe, favorite and subscription logic
+- shopping list generation
+- Dockerized deployment and CI/CD
+
 ### [QRKot Spreadsheets](https://github.com/KAnanev/QRkot_spreadsheets)
 FastAPI charity fund API with automated Google Sheets reporting.
 
